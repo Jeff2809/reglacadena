@@ -1,0 +1,28 @@
+.video-container {
+    text-align: center;
+}
+
+.video {
+    width: 80%; /* Puedes ajustar el ancho del video según tus necesidades */
+    max-width: 800px; /* Ancho máximo del video */
+    display: block;
+    margin: 0 auto;
+}
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+
+}
